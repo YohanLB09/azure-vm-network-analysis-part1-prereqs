@@ -17,7 +17,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create a Ressource Group
+- Step 1: Create a Resource Group
 - Step 2: Create a Windows Virtual Machine
 - Step 3: Create a Linux Virtual Machine
 - Step 4: Verify Configuration
@@ -25,20 +25,22 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 <h2>Actions and Observations</h2>
 
-<h3>Step 1</h3>
+<h3>Step 1: Create a Resource Group</h3>
 <p>
 <img src="https://i.imgur.com/39rastI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Once logged in to your Azure account, type "Resource groups" in the navigation pane and create one.
 </p>
 <br />
 
+
+<h3>Step 2: Create a Windows Virtual Machine</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cAjPkl9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the Resource group is created, type "Virtual machines" in the navigation pane and choose the first option under "Create" - "Azure virtual machine".
 </p>
 <br />
 
