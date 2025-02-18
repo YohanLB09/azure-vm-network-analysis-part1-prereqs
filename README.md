@@ -37,7 +37,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 <h3>Step 2: Create a Windows Virtual Machine</h3>
 <p>
-<img src="https://i.imgur.com/cAjPkl9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W61P5BL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Once the Resource group is created, type "Virtual machines" in the navigation pane and choose the first option under "Create".
