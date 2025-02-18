@@ -6,10 +6,6 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 <img src="https://i.imgur.com/UtA33Cl.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -17,7 +13,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Ubuntu Server 22.04
 
 <h2>High-Level Steps</h2>
 
