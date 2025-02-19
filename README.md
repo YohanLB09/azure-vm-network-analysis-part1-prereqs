@@ -3,7 +3,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 
 <p align="center">
-<img src="https://i.imgur.com/UtA33Cl.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/v8sgAIn.png" alt="Traffic Examination"/>
 </p>
 
 <h2>Environments and Technologies Used</h2>
