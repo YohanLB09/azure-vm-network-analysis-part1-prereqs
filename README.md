@@ -66,7 +66,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 <p>
 -Select a VM size; having at least 2 vcpus and 8 GiB memory is recommended.
 
--Create a username and a password for the Windows VM.
+-Create a username and a password for the Windows VM (write them down in Notepad for futur use).
   
 -Leave the other options at their default configuration and move on to the Networking section.
 </p>
@@ -86,7 +86,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 <h3>Step 3: Create a Linux Virtual Machine</h3>
 <p>
--Use the information provided in Step 2 to create the Linux VM; ensure that the Linux VM is connected to the same Resource group and Virtual Network as the Windows VM. Additionally, pick the Ubuntu Server 22.04 LTS VM image type. 
+-Use the information provided in Step 2 to create the Linux VM; ensure that the Linux VM is connected to the same Resource group and Virtual Network as the Windows VM. Additionally, pick the Ubuntu Server 22.04 LTS VM image type, and write down the credentials that you will have to create to access the Linux VM as we will need them later. 
 </p>
 <br />
 
@@ -110,7 +110,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 <img src="https://i.imgur.com/cQ2zp44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Once you have verified that both VMs are correctly configured, you can decide to wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to step 2 - check out: Azure VM Network Analysis - Part 2 - title on my main repository.
+-Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2 - check out: Azure VM Network Analysis - Part 2 - ICMP traffic analysis in my repository.
 </p>
 <br />
 
