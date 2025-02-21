@@ -110,7 +110,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 <img src="https://i.imgur.com/cQ2zp44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2 - check out: Azure VM Network Analysis - Part 2 - ICMP traffic analysis in my repository.
+-Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2: https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis.
 </p>
 <br />
 
