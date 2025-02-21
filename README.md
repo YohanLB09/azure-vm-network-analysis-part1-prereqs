@@ -82,7 +82,7 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 
 <p>
-<img src="https://i.imgur.com/lobnaOg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yFGxjtM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -You should see a pop-up window appearing on your screen. Create a name for the Virtual network and click on "OK". 
