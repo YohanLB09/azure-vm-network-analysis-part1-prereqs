@@ -95,7 +95,9 @@ In this tutorial, we will create a Ressource Group and configure 2 Virtual Machi
 
 <h3>Step 3: Create a Linux Virtual Machine</h3>
 <p>
--Use the information provided in Step 2 to create the Linux VM; ensure that the Linux VM is connected to the same Resource group and Virtual Network as the Windows VM. Additionally, pick the Ubuntu Server 22.04 LTS VM image type, and write down the credentials that you will have to create to access the Linux VM as we will need them later. 
+-Use the information provided in Step 2 to create the Linux VM; ensure that the Linux VM is connected to the same Resource group and Virtual Network as the Windows VM. 
+  
+-Additionally, pick the Ubuntu Server 22.04 LTS VM image type, and write down the credentials that you will have to create to access the Linux VM as we will need them later. 
 </p>
 <br />
 
