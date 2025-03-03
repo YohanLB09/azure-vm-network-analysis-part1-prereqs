@@ -1,5 +1,5 @@
 # Azure VM Network Analysis - Part 1 - Prerequisites and Configuration
-In this tutorial, we will create a Ressource Group and configure 2 Virtual Machines which will operate in the same Virtual Network.
+In this guided lab, we will create a Resource Group and configure two Virtual Machines within the same Virtual Network.
 
 
 <p align="center">
