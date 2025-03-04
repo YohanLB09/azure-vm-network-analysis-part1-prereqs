@@ -27,7 +27,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 <h3>Step 1: Create a Resource Group</h3>
 <p>
-<img src="https://i.imgur.com/39rastI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/39rastI.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Once logged in to your Azure account, type "Resource groups" in the navigation pane and create one.
@@ -38,7 +38,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 <h3>Step 2: Create a Windows Virtual Machine</h3>
 <p>
-<img src="https://i.imgur.com/W61P5BL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W61P5BL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Once the Resource group is created, type "Virtual machines" in the navigation pane and choose the first option under "Create".
@@ -46,7 +46,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 <br />
 
 <p>
-<img src="https://i.imgur.com/7o20QHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7o20QHT.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Associate the Windows VM to the previously created Resource Group.
@@ -61,7 +61,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 
 <p>
-<img src="https://i.imgur.com/0YzLocL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0YzLocL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Select a VM size; having at least 2 vcpus and 8 GiB memory is recommended.
@@ -73,7 +73,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 <br />
 
 <p>
-<img src="https://i.imgur.com/OKvb1pW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OKvb1pW.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -In the Networking section, click on "Create new" to configure a new Virtual network.
@@ -82,7 +82,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 
 <p>
-<img src="https://i.imgur.com/yFGxjtM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yFGxjtM.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -You should see a pop-up window appearing on your screen. Create a name for the Virtual network and click on "OK". 
@@ -105,7 +105,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 <h3>Step 4: Verify Configuration</h3>
 <p>
-<img src="https://i.imgur.com/aszxCvi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aszxCvi.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Once the Linux VM is created, verify that both VMs are connected to the same Virtual Network / Subnet.  
@@ -118,7 +118,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 <h3>Step 5: Prepare for Part 2</h3>
 <p>
-<img src="https://i.imgur.com/cQ2zp44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cQ2zp44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2: https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis.
