@@ -31,7 +31,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 <img src="https://i.imgur.com/39rastI.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Once logged in to your Azure account, type "Resource groups" in the navigation pane and create one.
+-Once logged in to your Azure account, type "Resource groups" in the navigation pane and click on "Create".
 </p>
 <br />
 
