@@ -68,7 +68,9 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 <img src="https://i.imgur.com/W61P5BL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Once the Resource group is created, type "Virtual machines" in the navigation pane and choose the first option under "Create".
+-Once the Resource group is created, browse to "Virtual machines" from the navigation pane.
+
+-Click on "Create".
 </p>
 <br />
 
