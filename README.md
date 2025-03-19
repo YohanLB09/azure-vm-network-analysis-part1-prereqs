@@ -39,7 +39,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 
 <p>
-<img src="https://i.imgur.com/UxrkGlH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pmzTROf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Make sure the correct Subscription is choosen.
@@ -54,7 +54,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 
 
 <p>
-<img src="https://i.imgur.com/sEostHb.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rG30fZv.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Once created, the Resource group should appear on the list of records.
