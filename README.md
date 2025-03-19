@@ -150,7 +150,7 @@ In this guided lab, we will create a Resource Group and configure two Virtual Ma
 <img src="https://i.imgur.com/cQ2zp44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2: https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis. In Part 2, we will analyze ICMP traffic between both VMs using Wireshark and Powershell. 
+-Once you have verified that both VMs are correctly configured, you can decide wether to suspend the VMs temporalily by selecting them and pressing "Stop" or keeping them active and directly moving on to Part 2: https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis.
 </p>
 <br />
 
